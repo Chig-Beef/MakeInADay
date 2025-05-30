@@ -1,0 +1,19 @@
+package main
+
+const SCREEN_WIDTH = 640
+const SCREEN_HEIGHT = SCREEN_WIDTH / 2
+
+const GRID_SIZE = 9
+
+const TILE_SIZE = VIRTUAL_HEIGHT / float64(GRID_SIZE)
+
+const VIRTUAL_WIDTH = 100
+const VIRTUAL_HEIGHT = VIRTUAL_WIDTH / 2
+
+const IS_RELEASE = false
+
+const FPS = 60
+
+const DFLT_LINE_WIDTH = float64(VIRTUAL_WIDTH) / float64(SCREEN_WIDTH)
+
+const START_MINES = 10
