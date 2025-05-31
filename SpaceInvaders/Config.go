@@ -1,0 +1,21 @@
+package main
+
+const SCREEN_WIDTH = 640
+const SCREEN_HEIGHT = SCREEN_WIDTH / 2
+
+const VIRTUAL_WIDTH = 100
+const VIRTUAL_HEIGHT = VIRTUAL_WIDTH / 2
+
+const IS_RELEASE = false
+
+const FPS = 60
+
+const DFLT_LINE_WIDTH = float64(VIRTUAL_WIDTH) / float64(SCREEN_WIDTH)
+
+const ENTITY_SIZE = 5
+
+const BULLET_WIDTH = 0.5
+const BULLET_HEIGHT = 2.5
+
+const PACK_WIDTH = 6
+const PACK_HEIGHT = 3
