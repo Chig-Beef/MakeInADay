@@ -7,3 +7,4 @@ We can then use our definition to quickly write the code.
 1. [Minesweeper](https://dev.to/chigbeef_77/make-in-a-day-minesweeper-2kj5)
 2. [Space Invaders](https://dev.to/chigbeef_77/make-in-a-day-space-invaders-421h)
 3. [Sudoku](https://dev.to/chigbeef_77/make-in-a-day-sudoku-36fb)
+4. [Game of Life](https://dev.to/chigbeef_77/make-in-a-day-game-of-life-2m1d)
