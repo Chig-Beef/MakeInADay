@@ -6,3 +6,4 @@ We can then use our definition to quickly write the code.
 ## What We've Made
 1. [Minesweeper](https://dev.to/chigbeef_77/make-in-a-day-minesweeper-2kj5)
 2. [Space Invaders](https://dev.to/chigbeef_77/make-in-a-day-space-invaders-421h)
+3. [Sudoku](https://dev.to/chigbeef_77/make-in-a-day-sudoku-36fb)
